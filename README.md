@@ -6,7 +6,8 @@
 <details>
 <summary>Expand to see full list</summary>
 
-+ Coming soon!
-+ Fill in
-+ Fill in
++ axios 0.21.1
++ cheerio 1.0.0-rc.5
++ nodemon 2.0.6
++ puppeteer 5.5.0
 </details>
