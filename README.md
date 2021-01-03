@@ -2,5 +2,10 @@
 
 ### Purpose: To find job listings to display on the job board
 
-#### Dependencies
- + Coming soon!
+<details>
+<summary>Dependencies</summary>
+
++ Coming soon!
++ Fill in
++ Fill in
+</details>
