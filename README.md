@@ -2,8 +2,9 @@
 
 ### Purpose: To find job listings to display on the job board
 
+## `Dependencies`
 <details>
-<summary>Dependencies</summary>
+<summary>Expand to see full list</summary>
 
 + Coming soon!
 + Fill in
