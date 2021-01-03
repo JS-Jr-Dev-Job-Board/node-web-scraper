@@ -1,2 +1,3 @@
-# node-web-scraper
-Node web scraper repo
+# Node web scraper
+
+### Purpose: To find job listings to display on the job board
